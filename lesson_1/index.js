@@ -1,7 +1,7 @@
 function makeGreetings(age){
 	var arr = ['год', 'года', 'лет'];
 	var value = age % 10;
-	var res;
+	var result;
 	if (value < 1 || value >= 5 ){result = arr[2]}
 	else if(value == 1){result = arr[0]}
 	else if(value >= 2 && value <= 4){result = arr[1]};
