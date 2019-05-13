@@ -7,7 +7,7 @@ function makeGreetings(age){
 	else if(value >= 2 && value <= 4){result = arr[1]};
 	return 'Мой возраст ' + age + result;
 };
-
+console.log(makeGreetings(age));
 
 function splitArray( arr1, arg ){
 	var newArr = new Array (Math.ceil(arr1.length / arg));
