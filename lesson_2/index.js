@@ -1,4 +1,4 @@
-//*1
+//1
 
 function removeKeys(obj, arr){
 	for (var i = 0; i < arr.length; i++){
@@ -7,7 +7,7 @@ function removeKeys(obj, arr){
 	return obj;
 };
 
-//*2
+//2
 
 function clearNumbers(arr){
 	var arrey = [];
@@ -23,7 +23,7 @@ function clearNumbers(arr){
 	return arrey
 };
 
-//*3
+//3
 function reverse(){
 	var args = [];
 	
