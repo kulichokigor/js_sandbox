@@ -1,4 +1,4 @@
-//*1
+//**1
 
 function makeImages(){
         let div;
