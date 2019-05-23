@@ -1,3 +1,4 @@
+//*1
 const divMain = document.createElement('div');
 const eye1 = document.createElement('div');
 const pupilEye1 = document.createElement('div');
