@@ -1,4 +1,4 @@
-//*3-mask
+//*3__mask
 function mask (stringValue = ''){
     let str = '';
     let last = '';
