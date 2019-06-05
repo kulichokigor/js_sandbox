@@ -1,7 +1,6 @@
+//*!
 var randomEmail = require('random-email');
 var validator = require("email-validator");
-
-console.log(randomEmail())
 
 
 const generate = document.querySelector('.generate');
