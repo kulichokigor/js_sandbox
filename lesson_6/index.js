@@ -20,7 +20,7 @@ close.addEventListener('click', function(){
 
 const validMail = document.querySelector('#validate-mail');
 validMail.addEventListener('change', function(){
-	if(validator.validate(email.value)){
+	if(validator.validate(document.querySelector('#viev-mail').value)){
 		validMail.style.border = "2px solid green"
 	}else{
 		validMail.style.border = "2px solid red"
