@@ -63,4 +63,4 @@ class MiniSlider {
 
 
 
-const slider = new MiniSlider()
+// const slider = new MiniSlider()

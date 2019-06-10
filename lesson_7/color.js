@@ -50,4 +50,4 @@ class Color {
     }
 };
 
-const color = new Color(1, 8, 3)
+// const color = new Color(1, 8, 3)
