@@ -1,0 +1,9 @@
+.conteiner_box{
+    margin: 0 auto;
+    width: 700px;
+    padding: 50px
+}
+
+#image-box{
+    text-align: center;
+}

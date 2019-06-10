@@ -1,0 +1,18 @@
+{
+  "name": "less7",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel ./index.html",
+    "build": "rm -rf dist && parcel build ./index.html  --public-url /js_sandbox",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "IK",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^2.0.1",
+    "parcel": "^1.12.3"
+  }
+}
