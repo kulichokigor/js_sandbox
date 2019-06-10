@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,eACI,aAAc,CACd,WAAY,CACZ,YACJ,CAEA,WACI,iBACJ","file":"style.3dc793ed.css","sourceRoot":"..","sourcesContent":[".conteiner_box{\r\n    margin: 0 auto;\r\n    width: 700px;\r\n    padding: 50px\r\n}\r\n\r\n#image-box{\r\n    text-align: center;\r\n}"]}
