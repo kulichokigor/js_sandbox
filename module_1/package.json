@@ -14,7 +14,6 @@
     "mask-input": "^1.0.2"
   },
   "devDependencies": {
-    "parce": "^1.2.6",
     "parcel": "^1.12.3"
   }
 }
