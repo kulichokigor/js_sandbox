@@ -1,0 +1,15 @@
+{
+  "name": "lesson9",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"parcel ./index.html"
+  },
+  "author": "KI",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^1.12.3"
+  }
+}
