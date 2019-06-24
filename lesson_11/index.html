@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        input{
+            margin:1px
+        }
+        .conteiner{
+            width: 25%;
+            margin: 0 auto;
+        }
+        fieldset{
+            background: #b5c5ff;
+            font-weight: bold;
+            font-size: 20px;
+        }
+        #load{
+            margin: 5px;
+            float: right;
+            background:rgb(3, 3, 109);
+            color: #fff;
+            padding: 8px;
+            border-radius: 5px;
+        }
+</style>
+</head>
+
+<body>
+    <div class="conteiner">
+        <fieldset>
+            <legend>Your location</legend>
+                <h5>Your IP-adress</h5>
+                <input type="text" id="getIpadress" readonly>
+                <h5>Your country</h5>
+                <input type="text" id="country" readonly>
+                <h5>Your town</h5>
+                <input type="text" id="town" readonly><br/>
+                <button id="load">Push</button>
+        </fieldset>
+    </div>
+<!-- 2* -->
+<!-- <div>
+    <h2>2*</h2>
+<input id="text" type="text" ><br/>
+<button id="clicked">Click</button>
+</div> -->
+    <script src="index.js"></script>
+</body>
+</html>
