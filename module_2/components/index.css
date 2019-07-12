@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+.main-box{
+    width: 375px;
+    height: 812px;
+    overflow: hidden;
+    margin: 0 auto;
+    position: relative;
+}
+.cirkle_1{
+    background: linear-gradient(147.47deg, #FEB665 24.48%, #F66EB4 118.65%);
+    border-radius: 50%;
+    width:75px;
+    height: 75px;
+
+}
+.cirkle_2{
+    width:75px;
+    height: 75px;
+    border-radius: 50%;
+    background: linear-gradient(228.76deg, #2DEEF9 -34.42%, #E084F1 127.18%);
+transform: rotate(-15.82deg);
+}
+.cirkle_3{
+    width:271px;
+    height: 271px;
+    border-radius: 50%;
+    background: linear-gradient(228.76deg, rgba(45, 238, 249, 0.15) -34.42%, rgba(224, 132, 241, 0.15) 127.18%);
+transform: rotate(-15.82deg);
+position: absolute;
+left: -22.17%;
+right: 49.89%;
+top: 91.31%;
+bottom: -24.69%;
+}
+.group_2{
+    position: absolute;
+    width: 375px;
+    height: 339px;
+    left: 0px;
+    top: 197px;
+}
+.elips-main{
+    position: absolute;
+    width: 212px;
+    height: 212px;
+    left: 82px;
+    top: 0;
+    border-radius: 50%;
+    background: linear-gradient(73.12deg, #25CED1 -19.51%, #34E6E9 58.02%, #6AFCFF 138%);
+}
+.group-img{
+    position: absolute;
+    top:31%;
+    left:31%;
+}
+.head-group{
+    position: absolute;
+    width: 375px;
+    height: 40px;
+    left: 0px;
+    top: 390px;
+}
+h2{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 44px;
+    text-align: center;
+    color: #384F7D;
+    z-index: 1;
+}
+.text-box{
+    left: 0%;
+    right: 0%;
+    top: 60.59%;
+    bottom: 33.99%;
+}
+.text{
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 60.59%;
+bottom: 33.99%;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+text-align: center;
+
+color: rgba(56, 79, 125, 0.8);
+}
+
+.group_6{
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 164px;
+    top: 650px;
+}
+.elips_6{
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    background: linear-gradient(125.58deg, #BAFB67 -5.37%, #00D23A 196.64%);
+    border-radius: 50%;
+}

@@ -1,0 +1,101 @@
+
+
+.main-box{
+    width: 375px;
+    height: 812px;
+    overflow: hidden;
+    margin: 0 auto;
+    position: relative;
+}
+.head-img{
+    position: absolute;
+left: 0;
+right: 38.93%;
+top: 12.19%;
+bottom: 78.94%;
+
+mix-blend-mode: overlay;
+}
+.group_1{
+    position: absolute;
+width: 375px;
+height: 696px;
+left: 10%;
+top: 63px;
+}
+.elips-welcom{
+    position: absolute;
+left: 33.33%;
+right: 30.4%;
+top: 8.25%;
+bottom: 75%;
+width:136px;
+height: 136px;
+border-radius:50%;
+
+background: linear-gradient(147.47deg, #FEB665 24.48%, #F66EB4 118.65%);
+}
+.headly{
+    position: absolute;
+    width: 375px;
+    height: 40px;
+    left: -10%;
+    top: 228px;
+}
+.name{
+    position: absolute;
+width: 250px;
+height: 35px;
+left: 10%;
+top: 360px;
+}
+.user-name{
+    position: absolute;
+width: 250px;
+height: 35px;
+top: 55%;
+left: 10%;
+}
+
+.input-group_2{
+    position: absolute;
+width: 375px;
+height: 696px;
+left: 10%;
+top: 65%;
+border-color: linear-gradient(179.24deg, #BAFB67 -5.37%, #00D23A 196.64%);
+}
+.country{
+    position: absolute;
+left: 0%;
+right: 52.38%;
+top: 0%;
+width: 150px;
+height: 48px;
+
+background: #FFFFFF;
+box-shadow: 4px 12px 25px rgba(71, 55, 255, 0.08);
+border-radius: 8px;
+}
+.age{
+    position: absolute;
+right: 15%;
+top: 0;
+width: 150px;
+height: 48px;
+
+background: #FFFFFF;
+box-shadow: 4px 12px 25px rgba(71, 55, 255, 0.08);
+border-radius: 8px;
+}
+.next-step{
+    position: absolute;
+width: 328px;
+height: 56px;
+left: 23px;
+top: 665px;
+
+box-shadow: 0px 10px 15px #DDEBDC;
+background: linear-gradient(166.04deg, #BAFB67 -5.37%, #00D23A 196.64%);
+border-radius: 8px;
+}
