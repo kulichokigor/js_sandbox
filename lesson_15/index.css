@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500&display=swap');
+
+body{
+    font-family: Montserrat;
+    background: #000000;
+    text-align: center;
+    color: #FCFCFC;
+}
+.main-box{
+    width: 375px;
+    margin:0 auto;
+}
+.tx-left{
+    text-align: left;
+}
+.tx-right{
+    text-align: right;
+}
+.tx-ctr{
+    text-align: center;
+}
+
+/* title_group */
+.title-box{
+    width: 220px;
+    height: 150px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 44px;
+    margin: 181.5px 86.64px 0px 68.36px;
+    text-align: left;
+}
+address{
+    margin: 0 79.64px 8.5px 69.36px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    align-items: center;
+    color: #FCFCFC;
+}
+
+/* form_group */
+form{
+    margin: 12px 60.1px 0px 64.1px;
+}
+input[placeholder]{
+    padding: 14px 12px 10px 15px;
+    width: 223px;
+    height: 18px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+}
+.pass-text{
+    width:250px;
+    height: 24px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 24px;
+    align-items: center;
+}
+
+/* button_group */
+.button_group{
+    padding: 27px 60px 5.02px 65px;
+    margin-bottom: 56px;
+}
+input[type="submit"]{
+    width: 250px;
+    padding: 12px 11.5px 12px 15.5px;
+    background: #FF473A;
+    mix-blend-mode: normal;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+    color: #FFFFFF;
+    border: none;
+}
+
+/* error_group */
+.error-block{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FF473A;
+}
+
+/* welcome */
+.welcome{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    align-items: center;
+    text-align: center;
+    color: #FCFCFC;
+}

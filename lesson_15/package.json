@@ -1,0 +1,21 @@
+{
+  "name": "homework-15",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.jsx",
+  "scripts": {
+    "start": "parcel ./index.html"
+  },
+  "keywords": [
+    "react",
+    "js"
+  ],
+  "author": "Igor K",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^1.12.3",
+    "radium": "^0.25.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
