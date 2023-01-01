@@ -9,7 +9,7 @@
   "author": "Igor K",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^1.12.3"
+    "parcel": "^2.8.2"
   },
   "dependencies": {
     "react": "^16.8.6",
