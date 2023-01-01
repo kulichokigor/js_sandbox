@@ -13,7 +13,7 @@
   "author": "Igor K",
   "license": "ISC",
   "dependencies": {
-    "parcel": "^1.12.3",
+    "parcel": "^2.8.2",
     "radium": "^0.25.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
